@@ -1,2 +1,2 @@
-# AI_NM2
-Neuronske mreze
+# AI_NN2
+Neural Networks
